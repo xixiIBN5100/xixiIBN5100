@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 👋 Hi there , I'm mao2006
+
+### ℹ️ Status 
+
+![Status](https://github-readme-stats.vercel.app/api?username=mao2006&show_icons=true&include_all_commits=true&hide_border=true)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mao2006&layout=compact&hide_border=true)
+
+---
+
+
 <!--
 **xixiIBN5100/xixiIBN5100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
