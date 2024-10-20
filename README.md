@@ -3,7 +3,7 @@
 
 ### ℹ️ Status 
 
-![Status](https://github-readme-stats.vercel.app/api?username=xixiIBN5100&show_icons=true&include_all_commits=true&hide_border=true)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xixiIBN5100&hide_border=true)
+![Status](https://github-readme-stats.vercel.app/api?username=xixiIBN5100&show_icons=true&include_all_commits=true&hide_border=true)
 
 ---
 
